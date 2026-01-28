@@ -526,7 +526,7 @@ class Top: public sc_module
   }
 };
 
-
+//main file
 int sc_main(int argc, char *argv[])
 {
   Top obj_TOP("Top"); 
